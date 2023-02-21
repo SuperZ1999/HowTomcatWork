@@ -1,2 +1,2 @@
 # HowTomcatWork
-阅读深入剖析Tomcat这本书时，练手的项目
+阅读《深入剖析Tomcat》这本书时，练手的项目
